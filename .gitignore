@@ -17,5 +17,11 @@
 # Dependency directories (remove the comment below to include it)
 # vendor/
 
+# Neovim
+.gonvim
+
 # Go workspace file
 go.work
+
+# Coverage files
+*.cov
